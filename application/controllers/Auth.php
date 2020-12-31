@@ -45,7 +45,11 @@ class Auth extends CI_Controller
 
                     ];
                     $this->session->set_userdata($data);
-                    redirect('home');
+                    if ($user['level'] == 'admin') {
+                        redirect('admin');
+                    } else {
+                        redirect('home');
+                    }
                 } else {
                     $this->session->set_flashdata('message', '<div class="alert alert-danger" role="alert">Maaf, password salah</div>');
                     redirect('auth');
@@ -68,7 +72,7 @@ class Auth extends CI_Controller
         ]);
         $this->form_validation->set_rules('password', 'Password', 'trim|required|min_length[3]', [
             'matches'       => 'Password tidak sama',
-            'min_length'    => 'Password minimal 8 karakter!',
+            'min_length'    => 'Password minimal 3 karakter!',
         ]);
         $this->form_validation->set_rules('password_conf', 'Password', 'trim|required|matches[password]');
 
