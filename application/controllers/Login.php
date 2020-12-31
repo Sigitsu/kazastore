@@ -2,14 +2,14 @@
 
 defined('BASEPATH') or exit('No direct script access allowed');
 
-class Home extends CI_Controller
+class Login extends CI_Controller
 {
 
     public function index()
     {
-        $data['view'] = 'home/index';
+        $data['view'] = 'login/index';
         $this->load->view('layout/index', $data);
     }
 }
 
-/* End of file Home.php */
+/* End of file Login.php */
