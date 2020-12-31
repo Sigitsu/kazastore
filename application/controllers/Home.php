@@ -7,7 +7,11 @@ class Home extends CI_Controller
 
     public function index()
     {
-        $data['view'] = 'home/index';
+        $data = array(
+            'title' => 'KAZASTORE',
+            'view'  => 'home/index'
+        );
+
         $this->load->view('layout/index', $data);
     }
 }
