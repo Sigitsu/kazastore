@@ -57,7 +57,7 @@
 
             <!-- Nav Item - Kategori Menu -->
             <li class="nav-item">
-                <a class="nav-link" href="#" aria-expanded="true" aria-controls="kategori">
+                <a class="nav-link" href="<?= base_url('kategori'); ?>" aria-expanded="true" aria-controls="kategori">
                     <i class="fas fa-fw fa-tags"></i>
                     <span>Kategori</span>
                 </a>
@@ -162,8 +162,9 @@
 
                 <!-- Begin Page Content -->
                 <div class="container-fluid">
-
-                    <?php $this->load->view($view); ?>
+                    <div class="row">
+                        <?php $this->load->view($view); ?>
+                    </div>
 
                 </div>
                 <!-- /.container-fluid -->
